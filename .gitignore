@@ -1,13 +1,17 @@
 *.bak
 *.db
 *.avi
-*.pdf
+#*.pdf
 *.ps
 *.mid
-*.midi
-*.mp3
+#*.midi
+#*.mp3
 *.aif
-*.wav
+#*.wav
 # Some versions of Finale have a bug and randomly save extra copies of
 # the music source as "<Filename> copy.mus"
 *copy.mus
+
+# Reaper
+*.rpp-bak
+*.reapeaks
