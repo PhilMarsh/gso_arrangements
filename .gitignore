@@ -12,6 +12,9 @@
 # the music source as "<Filename> copy.mus"
 *copy.mus
 
+# MuseScore
+**/.mscbackup/*
+
 # Reaper
 *.rpp-bak
 *.reapeaks
